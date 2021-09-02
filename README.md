@@ -7,6 +7,10 @@
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
 
 <!---
 deathrangerr/deathrangerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
