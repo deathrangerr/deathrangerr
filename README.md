@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on something whch can keep me going without coffee
 - 📫 How to reach me just move your left foot forward and right foot backward (DISCORD-----dEatH_RanGer#6110-----)
 
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
