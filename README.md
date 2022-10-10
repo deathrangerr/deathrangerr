@@ -10,6 +10,7 @@
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deathrangerr&theme=blue-green)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=deathrangerr)
 
 
 
