@@ -9,7 +9,7 @@
 - 📫 How to reach me just move your left foot forward and right foot backward (DISCORD-----dEatH_RanGer#6110-----)
 
 
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
 
 
 
